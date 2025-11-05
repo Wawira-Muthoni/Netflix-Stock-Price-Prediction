@@ -94,8 +94,4 @@ Christine Wawira
 
 
 ⭐ If you found this project insightful, consider giving it a star on GitHub! ⭐
-
----
-
-Would you like me to make a **short version (1–2 paragraphs)** that you can paste directly as a **LinkedIn post caption** too?
    
